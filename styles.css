@@ -1,0 +1,97 @@
+body {background-color: rgb(100, 0, 0);
+    background: linear-gradient(rgb(0,0,0), rgb(100,0,0));
+            color: rgb(235, 235, 235);
+    font-family: 'Times New Roman', Times, serif;}
+ 
+    header{background-image: url(pictures/patrickbateman.png);
+    background-size: 50%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-position: right;
+    line-height: 500%;
+    text-indent: 2em;
+    background-color: black;}
+
+    h1 {color:white;
+    margin-bottom: 0;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;}
+
+    nav {background-color: #250000;
+        text-align: center;
+        padding: 1em;
+    font-weight: bold;}
+
+    nav a {text-decoration: none;}
+    
+    h2 {color:white;
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;}
+
+    h3 {font-family: Georgia, 'Times New Roman', serif;
+        color: white;
+        font-style: italic;
+        text-indent: 1em}
+    
+    h4 {font-family: Georgia, 'Times New Roman', serif;
+    color: white;
+    text-indent: 2em;
+    font-weight: lighter;
+    padding-left: 1em;
+    padding-right: 1em; }
+
+    #wrapper {width: 80%;
+        background-color: black;
+        min-width: 960px;
+        max-width: 2048px;
+        box-shadow: 3px 3px 3px #250000;
+        margin: auto;}
+    
+    #bateman {background-image: url(pictures/bateman.gif);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    height: 425px;
+    background-position: center;}
+
+    #poster {background-image: url(pictures/americanpsycho.jpg);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-position: center;}
+
+    #dancing {background-image: url(pictures/dancing.gif);
+        background-size: 75%;
+        background-repeat: no-repeat;
+        height: 350px;
+        background-position: center;}
+
+    #walking {background-image: url(pictures/walking.gif);
+        background-size: 75%;
+        background-repeat: no-repeat;
+        height: 350px;
+        background-position: center}
+
+    ul {list-style-image: url(pictures/knife_marker.png);
+        padding-left: 4em;
+        padding-right: 4em}
+
+    dt {font-weight: bold;
+    color: white}
+
+    p{text-indent: 3em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 2em;
+    padding-right: 2em}
+
+    a {color: rgb(235, 235, 235);}
+
+    a:visited{color: rgb(200, 200, 200);}
+    
+    footer {background-color: #250000;
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+    padding: 12px;}
