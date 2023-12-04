@@ -3,7 +3,7 @@ body {background-color: rgb(100, 0, 0);
             color: rgb(235, 235, 235);
     font-family: 'Times New Roman', Times, serif;}
  
-    header{background-image: url(pictures/patrickbateman.png);
+    header{background-image: url(patrickbateman.png);
     background-size: 50%;
     background-position-y: center;
     background-repeat: no-repeat;
