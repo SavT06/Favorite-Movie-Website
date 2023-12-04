@@ -72,7 +72,7 @@ body {background-color: rgb(100, 0, 0);
         height: 350px;
         background-position: center}
 
-    ul {list-style-image: url(pictures/knife_marker.png);
+    ul {list-style-image: url(knife_marker.png);
         padding-left: 4em;
         padding-right: 4em}
 
