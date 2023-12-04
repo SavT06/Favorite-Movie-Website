@@ -48,25 +48,25 @@ body {background-color: rgb(100, 0, 0);
         box-shadow: 3px 3px 3px #250000;
         margin: auto;}
     
-    #bateman {background-image: url(pictures/bateman.gif);
+    #bateman {background-image: url(bateman.gif);
     background-size: 75%;
     background-repeat: no-repeat;
     height: 425px;
     background-position: center;}
 
-    #poster {background-image: url(pictures/americanpsycho.jpg);
+    #poster {background-image: url(americanpsycho.jpg);
     background-size: 25%;
     background-repeat: no-repeat;
     height: 450px;
     background-position: center;}
 
-    #dancing {background-image: url(pictures/dancing.gif);
+    #dancing {background-image: url(dancing.gif);
         background-size: 75%;
         background-repeat: no-repeat;
         height: 350px;
         background-position: center;}
 
-    #walking {background-image: url(pictures/walking.gif);
+    #walking {background-image: url(walking.gif);
         background-size: 75%;
         background-repeat: no-repeat;
         height: 350px;
